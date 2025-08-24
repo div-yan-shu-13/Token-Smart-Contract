@@ -125,6 +125,9 @@ For complete deployment instructions, see [DEPLOYMENT.md](./DEPLOYMENT.md).
 - **Devnet**: `clarinet integrate` (local development)
 - **Mainnet**: Follow the deployment guide (production)
 
+### Deployed
+![Deployment](image.png)
+
 ## License
 
 This project is open source and available under the MIT License.
